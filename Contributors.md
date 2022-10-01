@@ -143,7 +143,6 @@
 - [Ki hyun Lee](https://github.com/daveg7lee)
 - [Mark Chittenden](https://github.com/mark-chit)
 - [jyoti](https://github.com/Jyotipal29)
-- [Samuel Ukpai](https://github.com/Samthesurf)
 - [John Okunowo](https://github.com/johnfeyisayo)
 - [Celia Bruner](https://github.com/kiddo7565)
 - [Nile Roth](https://github.com/nilewuzhere)
@@ -1289,7 +1288,6 @@
 - [Yuhanna Kapali](https://github.com/Yuhannakapali)
 - [Ayush Tyagi Gzb](https://github.com/IayushCoderJOD)
 - [Kilian Braquin](https://github.com/kilianbraquin)
-- [Chirag Goel](https://github.com/chiggshiggs)
 - [Satyajeet Tripathy](https://github.com/sa8tyajeet46)
 - [Qasim Qlf](https://github.com/qasimqlf)
 - [Ankit Agarwal](https://github.com/ankitaga27)
@@ -1304,6 +1302,7 @@
 - [Satyajeet Tripathy](https://github.com/sa8tyajeet46)
 - [mvaschetto](https://github.com/mvaschetto)
 - [Rohit Jindamwar](https://github.com/rohit85-it)
+- [Narendra Kumar Gupta](https://github.com/Narendra-Git-Hub)
 
 
 <!-- prettier-ignore-end -->
